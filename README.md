@@ -1,15 +1,16 @@
 👋 Hello, I'm Ashish Sahu
 
-🚀 Passionate MERN Stack Developer
+🚀 Aspiring Data Analyst
 
-🎓 Currently pursuing Master of Computer Applications (MCA)
+🎓 Currently pursuing Master's of Computer Applications (MCA)
 
 🔧 Skills:
-- MongoDB, Express.js, React, Node.js, Html, Javascript
-- Version control with Git and GitHub
-- Front-end and back-end integration
+- Python, Javascript, MS Excel, Power-BI, MySQL, 
+- VS Code, Jupyter Notebook, Github.
+- libraries : Numpy, Pandas, Matplotlib, Seaborn.
+- Data Cleaning, Data Preprocessing, EDA, Feature Engineering.
 
-🌱 Always eager to learn new technologies and best practices in web development. 
+🌱 Always eager to learn new technologies and best practices in Data Analysis. 
 
 📫 How to reach me:
 - Email:ashishsahu1905@gmail.com
